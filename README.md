@@ -37,3 +37,12 @@ Install the required libraries before running the notebook:
 
 ```bash
 pip install pandas matplotlib 
+```
+## Running the EDA
+
+Open the notebook and run all cells:
+
+```bash
+jupyter notebook olid_eda.ipynb
+```
+
